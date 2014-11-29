@@ -6,6 +6,8 @@ title: About
 <p class="message">
   Hey there! This page is all about me. I need to write something here. Maybe I will tomorrow. ❤ </p>
 
+See below for how my mum set this site up for me.
+
 ---
 
 ## Setup
