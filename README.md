@@ -1,4 +1,4 @@
 maddy
 =====
 
-Mads site
+Maddy's favorite things and blog. Oh and Bashful's blog too ❤ 
