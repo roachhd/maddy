@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            Maddys Site
 tagline:          An Awesome website
 url:              http://roachhd.github.io/maddy
-paginate:         5
+paginate:         20
 baseurl:          /maddy
 author:
   name:           Maddison S
