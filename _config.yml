@@ -1,12 +1,12 @@
 # Permalinks
-permalink:        
-# relative_permalinks: true
+permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Maddys Site
 tagline:          An Awesome website
 url:              http://roachhd.github.io/maddy
-paginate:         1
+paginate:         5
 baseurl:          /maddy
 author:
   name:           Maddison S
