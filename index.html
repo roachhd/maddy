@@ -3,6 +3,8 @@
   <meta charset="utf-8" />
   <link rel="shortcut icon" href="https://requires.io/static/2.5/wioweb/favicon.ico" />
   <title>Maddy &amp; Bashful </title>
+
+<!--
   <style>
     html { margin: 0; padding: 0; border-top: 10px solid cyan; }
     body { width: 100%; max-width: 900px; margin: 20px auto; font-family: monospace; font-size: 16px; line-height: 1.5em; }
@@ -18,7 +20,10 @@
     img.right { float: right; margin: 0 0 10px 10px; border: 10px solid lime;  }
     footer,
     .pals { clear: both; }
-  </style>
+  </style> -->
+
+{% include color-css.html %}
+
 </head>
 <body>
 
@@ -42,12 +47,12 @@
 
   <div id="links">
     <section class="me">
-      <h3>fav websites</h3>
+      <h3>fav sites</h3>
       <ul>
         <li><a href="http://www.boothedog.net" target="_blank">Boo the Dog.</a> The Cutest Dog in the World.</li>
         <li><a href="http://www.dkids.com.au/" target="_blank">Discovery Kids</a>My favourite channel on Foxtel</li>
         <li><a href="http://m.cartoonnetwork.com.au" target="_blank">Cartoon Network.</a> Videos, games &amp; more.</li>
-        <li><a href="http://medium.com/Goliad">css perverts</a> satire about Goliads/li>
+        <li><a href="http://medium.com/Goliad">css stuff</a> satire about Goliads/li>
         <li><a href="http://meetup.com/Goliad">#Goliad</a> Goliad meetup I organize</li>
       </ul>
     </section>
@@ -55,7 +60,7 @@
     <section class="me">
       <h3>my sites</h3>
       <ul>
-        <li><a href="http://roachhd.github.io/maddy/blog">My Bloggy</a> Blog blog </li>
+        <li><a href="http://roachhd.github.io/maddy/blog">My Blog</a> bloggy blog blog. </li>
         <li><a href="http://roachhd.gitbooks.io/the-little-story-book/">My Book.</a> Little Stories</li>
         <li><a href="http://roachhd.gitbooks.io/writing-book">My school work</a> blah blah blah</li>
         <li><a href="http://madeby.katieball.me/">madeby.katieball.com</a> Blah blah </li>
@@ -64,14 +69,25 @@
     </section>
 
     <section class="pals">
-      <h3>Goliad Goliad</h3>
+      <h3>Maddy &amp; Bashful's Blog </h3>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+
+<!--
       <ul>
         <li><a href="http://katieball.me/">blah blah blah</a></li>
         <li><a href="http://katieball.me/">blah blah </a></li>
         <li><a href="http://katieball.me/">blah blah </a></li>
         <li><a href="http://katieball.me/"><font color="red">gf</font><font color="orange">blah</font></a></li>
         <li><a href="http://katieball.me/">katieball.me</a></li>
-      </ul>
+      </ul> -->
+
     </section>
   </div>
 
@@ -79,6 +95,9 @@
     <p>&copy; 2014 Goliads Totz AmazeBallz site by my <a href="http://katieball.me" target="_blank">Mum</a></p>
   </footer>
 
+{% include color-js.html %}
+
+<!-- 
   <script type="text/javascript">
     (function(){
       var neonColors = [
@@ -119,6 +138,6 @@
         linkItems[i].style.backgroundColor = neonColors[ Math.floor(Math.random() * (neonColors.length + 1)) ];
       }
     })();
-  </script>
+  </script> -->
 </body>
 </html>
