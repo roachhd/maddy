@@ -2,8 +2,6 @@
 permalink:        pretty
 relative_permalinks: true
 
-permalink: /blog/
-
 # Setup
 title:            Maddys Site
 tagline:          An Awesome website
