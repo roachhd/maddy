@@ -10,11 +10,11 @@ my little girls dashboard, colorful, happy and beautiful - just like her! This i
 
 ##### Noob Stuff
 
-Site Build Status
+Site Build Status:
 
 ![Travis-ci status](http://travis-ci.org/roachhd/maddy.svg?gh-pages=42489111)
 
 
-GitHub Pages Gem
+GitHub Pages Gem: 
 
 [![Gem Version](https://badge.fury.io/rb/github-pages.svg)](http://badge.fury.io/rb/github-pages) [![Build Status](https://travis-ci.org/github/pages-gem.svg?branch=master)](https://travis-ci.org/github/pages-gem)
