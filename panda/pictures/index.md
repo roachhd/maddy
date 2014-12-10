@@ -3,14 +3,12 @@ layout: page
 title: Panda Pictures
 ---
 ![mini panda](http://i480.photobucket.com/albums/rr165/Niji-boo/kaos-panda28.gif)
-<p class="message">  Hey there! This page is full of amazing and cute panda pictures and GIFs. Enjoy! </p>
-![mini panda](http://i480.photobucket.com/albums/rr165/Niji-boo/kaos-panda28.gif)
+###### Hey there! This page is full of amazing and cute panda pictures and GIFs. Enjoy! ![butt wiggle](http://media.photobucket.com/component/Download-File?
 
 
 ---
 
-
-![butt wiggle](http://media.photobucket.com/component/Download-File?file=%2Falbums%2Fzz313%2Fgalacutie_bucket%2Flolololololololol.gif)
+file=%2Falbums%2Fzz313%2Fgalacutie_bucket%2Flolololololololol.gif)
 ![Funny Pandas](http://i1163.photobucket.com/albums/q553/XxILoveSymmetryxX/FUNNY.gif) 
 ![christmas panda gif](http://i671.photobucket.com/albums/vv74/Aterlucis/Animated/ChristmasPanda.gif)
 ![panda maddy](http://media.photobucket.com/component/Download-File?file=%2Falbums%2Fa618%2Flesley696%2Favatar_thumb_zps471c80a7.jpg)
