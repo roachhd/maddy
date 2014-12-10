@@ -6,8 +6,8 @@ title: Panda Pictures
 ###### Hey there! This page is full of amazing and cute panda pictures and GIFs. Enjoy! 
 ![butt wiggle](http://media.photobucket.com/component/Download-File?file=%2Falbums%2Fzz313%2Fgalacutie_bucket%2Flolololololololol.gif)
 
-
 ---
+
 ![Funny Pandas](http://i1163.photobucket.com/albums/q553/XxILoveSymmetryxX/FUNNY.gif) 
 ![christmas panda gif](http://i671.photobucket.com/albums/vv74/Aterlucis/Animated/ChristmasPanda.gif)
 ![panda maddy](http://media.photobucket.com/component/Download-File?file=%2Falbums%2Fa618%2Flesley696%2Favatar_thumb_zps471c80a7.jpg)
@@ -19,6 +19,9 @@ title: Panda Pictures
 ![Panda oops](http://fc08.deviantart.net/fs70/i/2010/244/4/2/panda_oof_sketch_by_adrena_lynne-d2xt2mn.jpg)
 ![red and blue](http://fc09.deviantart.net/fs71/f/2011/048/9/b/red_panda_vs_blue_panda_by_pandapaco-d39scuq.jpg)
 ![Red Panda](http://www.clker.com/cliparts/4/E/p/p/P/7/red-panda-hi.png)
+
+--- 
+
 ![cutie](http://media-cache-ak0.pinimg.com/236x/9e/22/9a/9e229a4e55e96084d4029532b7cd754a.jpg)
 ![little](http://static.hdw.eweb4.com/media/thumbs/1/117/1167984.jpg)
 ![keep calm](https://s-media-cache-ak0.pinimg.com/236x/37/1f/43/371f433dd34295885116a816de66c6f3.jpg)
