@@ -3,7 +3,8 @@ layout: page
 title: Panda Pictures
 ---
 ![mini panda](http://i480.photobucket.com/albums/rr165/Niji-boo/kaos-panda28.gif)
-###### Hey there! This page is full of amazing and cute panda pictures and GIFs. Enjoy! ![butt wiggle](http://media.photobucket.com/component/Download-File?
+###### Hey there! This page is full of amazing and cute panda pictures and GIFs. Enjoy! 
+![butt wiggle](http://media.photobucket.com/component/Download-File?
 
 
 ---
@@ -26,3 +27,4 @@ file=%2Falbums%2Fzz313%2Fgalacutie_bucket%2Flolololololololol.gif)
 ![cute friends](http://data1.whicdn.com/images/61109239/large.png)
 ![panda](http://www.icanbecreative.com/res/character/panda.jpg)
 ![Panda stack](http://data3.whicdn.com/images/91194923/large.jpg)
+![butt wiggle](http://media.photobucket.com/component/Download-File?
