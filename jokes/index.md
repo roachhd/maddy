@@ -7,10 +7,8 @@ title: My Jokes
 
 >Why did the chicken cross the risk?
 To get to the other side
-
-^
-
+&nbsp;
 
 > another quote
-^
+&nbsp;
 > lady one
