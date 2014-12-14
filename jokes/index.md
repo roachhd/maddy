@@ -5,14 +5,24 @@ title: My Jokes
 
 ###### These are my jokes, I think they are funny.
 
->Why did the chicken cross the risk?
-To get to the other side
+---
+
+>Will you remember my tomorrow? 
+Yes
+Will you remember me next week?
+Yes
+Will you remember me next month? 
+Yes
+Will you remember me next year? 
+Yes
+Knock knock? 
+Who's there?
+See you already forgot me!!!
 
 &nbsp; 
 
-> another quote
+>What did one eye say to the other eye? 
+ Don't look now but someone in between us smells.
 
-&nbsp;
+&nbsp; 
 
-
-> lady one
