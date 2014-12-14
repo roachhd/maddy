@@ -36,7 +36,7 @@ title: My Jokes
 
 &nbsp;
 
-> What do you can target Christmas when he does a fart?
+> What do you call Father Christmas when he does a fart?
 >>Farther Christmas
 
 &nbsp;
