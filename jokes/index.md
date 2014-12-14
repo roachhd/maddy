@@ -34,3 +34,9 @@ title: My Jokes
 > What are Moshlings favorite veggies?
 >>Mosh-rooms.
 
+&nbsp;
+
+> What do you can target Christmas when he does a fart?
+>>Farther Christmas
+
+&nbsp;
