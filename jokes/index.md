@@ -7,7 +7,7 @@ title: My Jokes
 
 ---
 
->Will you remember my tomorrow? 
+>Will you remember me tomorrow? 
 >>Yes
 
 >Will you remember me next week?
@@ -27,7 +27,10 @@ title: My Jokes
 &nbsp; 
 
 >What did one eye say to the other eye? 
- Don't look now but someone in between us smells.
+>>Don't look now but someone in between us smells.
 
 &nbsp; 
+
+> What are Moshlings favorite veggies?
+>>Mosh-rooms.
 
