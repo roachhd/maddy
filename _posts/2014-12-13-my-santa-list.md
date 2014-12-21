@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2014
+title: 2014 Santa List
 ---
 <section class="me">
  <h3>my Santa wish list</h3>
-<p>I know I am not going to get everything that I ask for, but I want to let Santa know ask the things he can choose from.</p>
+<p>I know I am not going to get everything that I ask for, but I want to let Santa know all the things he can choose from.</p>
  <ul>
  <li><a href="#">a real panda for a pet</a> 🐼 please please. </li>
  <li><a href="#">black nintendo 3ds</a> really want this. </li>
